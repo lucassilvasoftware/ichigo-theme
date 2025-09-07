@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0cd4a81-c94e-4240-88bb-a2102c866e3b" width="1030" />
+  <img src="./img/ichigo theme banner.png" width="1030" alt="Ichigo Theme Banner" />
 </p>
 
 # Ichigo Theme
@@ -9,12 +8,13 @@ A dark, minimal VS Code theme inspired by Japanese design philosophy. Ichigo com
 
 ## Philosophy
 
-Ichigo embodies the Japanese principle of **ichigo ichie** (一期一会) — the concept that each moment is unique and should be treasured. Applied to development, this means creating a workspace where every coding session becomes a mindful, focused experience.
+Ichigo embodies the Japanese principle of **ichigo ichie** (一期一会) — the idea that each moment is unique and should be treasured. Applied to development, this means creating a workspace where every coding session becomes a mindful, focused experience.
 
 The theme draws from traditional Japanese aesthetics:
-- **Ma** (間) — purposeful use of negative space
+
+- **Ma** (間) — purposeful use of negative space  
 - **Kanso** (簡素) — simplicity without sacrifice  
-- **Wabi-sabi** (侘寂) — finding beauty in subtle imperfection
+- **Wabi-sabi** (侘寂) — finding beauty in subtle imperfection  
 
 Each color was chosen to honor the balance between visibility and restraint, ensuring your code remains the protagonist while the interface gracefully recedes into the background.
 
@@ -28,6 +28,20 @@ Carefully calibrated contrast ratios and color temperatures minimize eye strain 
 
 **Contextual Awareness**  
 Colors adapt semantically — errors demand attention while comments blend thoughtfully into the background.
+
+## Previews
+
+<p align="center">
+  <img src="./img/code javascript.png" width="1030" alt="Ichigo Theme JavaScript Preview" />
+</p>
+
+<p align="center">
+  <img src="./img/code java.png" width="1030" alt="Ichigo Theme Java Preview" />
+</p>
+
+<p align="center">
+  <img src="./img/code python.png" width="1030" alt="Ichigo Theme Python Preview" />
+</p>
 
 ## License
 
