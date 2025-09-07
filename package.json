@@ -2,8 +2,9 @@
   "name": "ichigo-theme",
   "displayName": "Ichigo Theme",
   "description": "A contemplative dark theme, where neon lights meet the quiet depth of thought, reflecting the balance between chaos and serenity.",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "IchigoIchie",
+  "icon": "img/logo.png",
   "engines": {
     "vscode": "^1.103.0"
   },
