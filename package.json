@@ -1,0 +1,21 @@
+{
+  "name": "ichigo-theme",
+  "displayName": "ichigo-theme",
+  "description": "A contemplative dark theme, where neon lights meet the quiet depth of thought, reflecting the balance between chaos and serenity.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ichigo Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ichigo Theme-color-theme.json"
+      }
+    ]
+  }
+}
