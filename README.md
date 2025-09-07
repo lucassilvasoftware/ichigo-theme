@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0cd4a81-c94e-4240-88bb-a2102c866e3b" width="1030" />
+</p>
+
 # Ichigo Theme
 
 A dark, minimal VS Code theme inspired by Japanese design philosophy. Ichigo combines understated elegance with purposeful contrast, creating a coding environment that promotes focus and reduces visual fatigue.
