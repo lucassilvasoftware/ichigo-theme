@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/ichigo theme banner.png" width="290" alt="Ichigo Theme Banner" />
+  <img src="./img/ichigo theme.png" width="380" alt="Ichigo Theme Banner" />
 </p>
 
 # Ichigo Theme
